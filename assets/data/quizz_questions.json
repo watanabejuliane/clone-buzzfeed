@@ -1,0 +1,55 @@
+{
+  "title":"Você é My Melody ou Kuromi?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Como você se descreveria?",
+      "options":[
+        {"id": 1, "name":"Criativo", "alias":"A"},
+        {"id": 2, "name":"Forte", "alias":"B"},
+        {"id": 3, "name":"Doce", "alias":"A"},
+        {"id": 4, "name":"Maduro", "alias":"B"},
+        {"id": 5, "name":"Aventureiro", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual comida você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Ramen", "alias":"A"},
+        {"id": 2, "name":"Sushi", "alias":"A"},
+        {"id": 3, "name":"Hamburguer", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual filme do Studio Ghibli você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Tumúlo dos Vagalumes", "alias":"B"},
+        {"id": 2, "name":"Castelo no céu", "alias":"A"},
+        {"id": 3, "name":"O Serviço de Entregas da Kiki", "alias":"A"},
+        {"id": 4, "name":"Princesa Mononoke", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Escolha um Pokémon?",
+      "options":[
+        {"id": 1, "name":"Pikachu", "alias":"A"},
+        {"id": 2, "name":"Charmander", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual sua maior fraqueza ?",
+      "options":[
+        {"id": 1, "name":"Posso ser preguiçoso", "alias":"B"},
+        {"id": 2, "name":"Não consigo dizer não", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria a My Melody!",
+    "B": "Você muito provavelmente seria a Kuromi!"
+  }
+}
