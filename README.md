@@ -1,4 +1,4 @@
-# ProjetoBuzzfeed 🖥️
+# Você é MyMelody ou Kuromi? Clone Buzzfeed 🌸
 
 ## Descrição 
 
