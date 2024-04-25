@@ -14,7 +14,7 @@
     },
     {
       "id":2,
-      "question": "Qual comida você escolheria ?",
+      "question": "Qual comida você escolheria?",
       "options":[
         {"id": 1, "name":"Ramen", "alias":"A"},
         {"id": 2, "name":"Sushi", "alias":"A"},
@@ -23,7 +23,7 @@
     },
     {
       "id":3,
-      "question": "Qual filme do Studio Ghibli você escolheria ?",
+      "question": "Qual filme do Studio Ghibli você escolheria?",
       "options":[
         {"id": 1, "name":"Tumúlo dos Vagalumes", "alias":"B"},
         {"id": 2, "name":"Castelo no céu", "alias":"A"},
@@ -41,10 +41,10 @@
     },
     {
       "id":5,
-      "question": "Qual sua maior fraqueza ?",
+      "question": "Qual sua maior fraqueza?",
       "options":[
         {"id": 1, "name":"Posso ser preguiçoso", "alias":"B"},
-        {"id": 2, "name":"Não consigo dizer não", "alias":"A"}
+        {"id": 2, "name":"Não consigo dizer 'não' ", "alias":"A"}
       ]
     }
   ],
