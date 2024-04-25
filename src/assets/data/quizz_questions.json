@@ -44,7 +44,7 @@
       "question": "Qual sua maior fraqueza?",
       "options":[
         {"id": 1, "name":"Posso ser preguiçoso", "alias":"B"},
-        {"id": 2, "name":"Não consigo dizer 'não' ", "alias":"A"}
+        {"id": 2, "name":"Não consigo negar pedidos", "alias":"A"}
       ]
     }
   ],
